@@ -84,27 +84,7 @@ Due to GitHub file size limits, large `.pkl` files (like `X_train_NoDef.pkl` or 
 
 * Download them manually from the above sources
 * Or use [Git LFS](https://git-lfs.github.com) to manage them if needed
-* Darknet-Traffic-Analysis/
-│
-├── Dataset/                     # Large .pkl datasets
-│   ├── X_train_NoDef.pkl
-│   └── WTFPAD.pkl
-│
-├── templates/                   # All HTML templates
-│   ├── home.html
-│   ├── signin.html
-│   └── ...
-│
-├── static/                      # CSS and JS files (optional)
-│   ├── css/
-│   └── js/
-│
-├── DarknetClassification.ipynb # Main Jupyter notebook
-├── app.py                       # Flask app
-├── README.md                    # Project overview
-├── .gitignore                   # Files/folders to exclude from Git
-└── requirements.txt             # Python dependencies
-
+* 
 
 ---
 
