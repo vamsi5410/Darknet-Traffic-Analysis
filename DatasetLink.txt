@@ -1,0 +1,2 @@
+https://github.com/fingerprintability/fingerprintability/tree/master
+https://github.com/deep-fingerprinting/df
