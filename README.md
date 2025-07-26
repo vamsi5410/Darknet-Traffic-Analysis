@@ -96,24 +96,14 @@ Best performance observed with **top 6 selected features**.
 ### 📈 Model Performance Summary
 
 
-
-| Model        | Dataset                             | Accuracy    |
-
-| ------------ | ----------------------------------- | ----------- |
-
-| KNN          | Original                            | 86.00%      |
-
-| RandomForest | Original                            | 86.57%      |
-
-| SVM          | Original                            | 86.89%      |
-
-| KNN          | WTFPAD                              | 84.15%      |
-
-| SVM          | WTFPAD                              | 99.00%      |
-
-| SVM/KNN      | Merged OS + WTFPAD (Top 6 Features) | 97.92%      |
-
-| **AdaBoost** | Extension                           | **100.00%** |
+Model	Dataset	Accuracy
+KNN	Original	86.00%
+RandomForest	Original	86.57%
+SVM	Original	86.89%
+KNN	WTFPAD	84.15%
+SVM	WTFPAD	99.00%
+SVM/KNN	Merged OS + WTFPAD (Top 6 Features)	97.92%
+AdaBoost	Extension	100.00%
 
 
 
